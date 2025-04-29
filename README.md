@@ -3,6 +3,10 @@
 A boids simulation accelerated with the use of a loose octree for spatial partitioning.
 Contains tunable parameters that effect the boids behaviors:
 
+# Results
+![image](https://github.com/user-attachments/assets/08ec2226-80bf-4a5a-9b20-05fedc68e48d)
+![image](https://github.com/user-attachments/assets/d974fb55-f983-4d1d-a4ca-7a0be06dd844)
+
 AvoidanceDistance: the distance at which boids will begin to avoid eachother.
 VisualDistance: the distance at which boids can recognize other boids.
 ObstacleAvoidanceDistance: the distance at which boids will begin to avoid obstacles in their line of sight.
